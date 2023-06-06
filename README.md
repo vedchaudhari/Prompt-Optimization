@@ -30,7 +30,7 @@ Follow these instructions to set up and run the script:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/vedchaudhari/repo.git
 
 2. Navigate to the project directory: cd repo
 
