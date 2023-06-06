@@ -4,7 +4,7 @@ This repository contains a Python script that demonstrates a token reduction alg
 
 ## Token Reduction Algorithm Overview
 
-The token reduction algorithm consists of the following steps:
+The token reduction algorithm consists of the following steps: 
 
 1. Text Summarization: The input text is summarized using the T5 model from the Hugging Face Transformers library.
 2. Text Compression: Redundant words, phrases, or sentences are removed, and long phrases may be replaced with shorter alternatives.
