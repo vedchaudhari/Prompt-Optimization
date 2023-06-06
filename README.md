@@ -30,24 +30,18 @@ Follow these instructions to set up and run the script:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/vedchaudhari/repo.git
+   git clone https://github.com/vedchaudhari/Prompt-Optimization.git
 
-2. Navigate to the project directory: cd repo
+2. Open the script file optimize_text.py in a text editor.
 
-3. Install the required dependencies:
-    pip install -r requirements.txt
+3.Modify the unoptimized_text variable with your desired input text.
 
-4. Open the script file optimize_text.py in a text editor.
+4. Set the max_tokens variable to the maximum number of tokens for the optimized text.
 
-5.Modify the unoptimized_text variable with your desired input text.
-
-6. Set the max_tokens variable to the maximum number of tokens for the optimized text.
-
-7. Save the file.
+5. Save the file.
 
 Run the script: 
   python optimize_text.py
-
 
 
 Feel free to customize the README file according to your specific project requirements and include any additional information or instructions you find relevant.
