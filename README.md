@@ -31,3 +31,24 @@ Follow these instructions to set up and run the script:
 
    ```shell
    git clone https://github.com/username/repo.git
+
+2. Navigate to the project directory: cd repo
+
+3. Install the required dependencies:
+    pip install -r requirements.txt
+
+4. Open the script file optimize_text.py in a text editor.
+
+5.Modify the unoptimized_text variable with your desired input text.
+
+6. Set the max_tokens variable to the maximum number of tokens for the optimized text.
+
+7. Save the file.
+
+Run the script: 
+  python optimize_text.py
+
+
+
+Feel free to customize the README file according to your specific project requirements and include any additional information or instructions you find relevant.
+
